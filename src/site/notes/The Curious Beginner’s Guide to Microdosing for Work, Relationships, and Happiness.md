@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-curious-beginner-s-guide-to-microdosing-for-work-relationships-and-happiness/"}
+{"dg-publish":true,"permalink":"/the-curious-beginner-s-guide-to-microdosing-for-work-relationships-and-happiness/","dgPassFrontmatter":true}
 ---
 
 # The Curious Beginner’s Guide to Microdosing for Work, Relationships, and Happiness
