@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/we-deserve-waffles-in-relationships/"}
+{"dg-publish":true,"permalink":"/we-deserve-waffles-in-relationships/","dgPassFrontmatter":true}
 ---
 
 # We Deserve Waffles in Relationships
