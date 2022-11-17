@@ -1,5 +1,5 @@
 ---
-{"tags":["drugs, therapy","gardenEntry"],"dg-publish":true,"dg-home":true,"permalink":"/what-mdma-therapy-did-for-me/","dgPassFrontmatter":true}
+{"tags":"drugs, therapy","dg-publish":true,"permalink":"/what-mdma-therapy-did-for-me/","dgPassFrontmatter":true}
 ---
 
 # What MDMA Therapy Did For Me
