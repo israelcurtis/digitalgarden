@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/it-s-not-our-job-to-save-them/"}
+{"dg-publish":true,"permalink":"/it-s-not-our-job-to-save-them/","dgPassFrontmatter":true}
 ---
 
 # It’s Not Our Job to Save Them
