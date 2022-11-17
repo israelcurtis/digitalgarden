@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-most-skipped-step-when-opening-a-relationship/"}
+{"dg-publish":true,"permalink":"/the-most-skipped-step-when-opening-a-relationship/","dgPassFrontmatter":true}
 ---
 
 # The Most Skipped Step When Opening a Relationship
