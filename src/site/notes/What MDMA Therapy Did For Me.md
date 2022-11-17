@@ -11,7 +11,7 @@ I did MDMA therapy. It was a deeply profound and life-changing experience.
 
 I did two treatments, one in early September, another in early October.
 
-And I plan to do it again, at least once more.
+And I <mark style="background: #FF5582A6;">plan to do it again</mark>, at least once more.
 
 I would rank it as one of the top 3 most important things I’ve done in my life, at least in terms of my personal development.
 
