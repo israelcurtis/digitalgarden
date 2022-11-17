@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/i-grew-up-in-a-cult/"}
+{"dg-publish":true,"permalink":"/i-grew-up-in-a-cult/","dgPassFrontmatter":true}
 ---
 
 # I grew up in a cult
