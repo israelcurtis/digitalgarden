@@ -1,0 +1,47 @@
+---
+{"dg-publish":true,"author":"Andrew W. Zimmerman","source":"https://www.pnas.org/doi/full/10.1073/pnas.1416940111","clipped":"2022-11-19","tags":"autism, research","permalink":"/sulforaphane-treatment-of-autism-spectrum-disorder/","dgPassFrontmatter":true}
+---
+
+# Sulforaphane treatment of autism spectrum disorder
+Contributed by Paul Talalay, September 4, 2014 (sent for review August 12, 2014; reviewed by Bryan H. King, Robert K. Naviaux, and Cecilia Giulivi)
+
+October 13, 2014
+
+[https://doi.org/10.1073/pnas.1416940111](https://doi.org/10.1073/pnas.1416940111)
+-   Contents
+    
+    [Vol. 111 | No. 43](/toc/pnas/111/43)
+    
+    -   [Significance](#executive-summary-abstract)
+    -   [Abstract](#abstract)
+    -   [Results](#sec-1)
+    -   [Discussion](#sec-2)
+    -   [Materials and Methods](#sec-3)
+    -   [Acknowledgments](#acknowledgments)
+    -   [Supporting Information](#supplementary-materials)
+    -   [References](#bibliography)
+    
+
+## Significance
+
+Autism spectrum disorder (ASD), encompassing impaired communication and social interaction, and repetitive stereotypic behavior and language, affects 1–2% of predominantly male individuals and is an enormous medical and economic problem for which there is no documented, mechanism-based treatment. In a placebo-controlled, randomized, double-blind clinical trial, daily oral administration for 18 wk of the phytochemical sulforaphane (derived from broccoli sprouts) to 29 young men with ASD substantially (and reversibly) improved behavior compared with 15 placebo recipients. Behavior was quantified by both parents/caregivers and physicians by three widely accepted measures. Sulforaphane, which showed negligible toxicity, was selected because it upregulates genes that protect aerobic cells against oxidative stress, inflammation, and DNA-damage, all of which are prominent and possibly mechanistic characteristics of ASD.
+
+## Abstract
+
+Autism spectrum disorder (ASD), characterized by both impaired communication and social interaction, and by stereotypic behavior, affects about 1 in 68, predominantly males. The medico-economic burdens of ASD are enormous, and no recognized treatment targets the core features of ASD. In a placebo-controlled, double-blind, randomized trial, young men (aged 13–27) with moderate to severe ASD received the phytochemical sulforaphane (*n* = 29)—derived from broccoli sprout extracts—or indistinguishable placebo (*n* = 15). The effects on behavior of daily oral doses of sulforaphane (50–150 µmol) for 18 wk, followed by 4 wk without treatment, were quantified by three widely accepted behavioral measures completed by parents/caregivers and physicians: the Aberrant Behavior Checklist (ABC), Social Responsiveness Scale (SRS), and Clinical Global Impression Improvement Scale (CGI-I). Initial scores for ABC and SRS were closely matched for participants assigned to placebo and sulforaphane. After 18 wk, participants receiving placebo experienced minimal change (<3.3%), whereas those receiving sulforaphane showed substantial declines (improvement of behavior): 34% for ABC (*P* < 0.001, comparing treatments) and 17% for SRS scores (*P* = 0.017). On CGI-I, a significantly greater number of participants receiving sulforaphane had improvement in social interaction, abnormal behavior, and verbal communication (*P* = 0.015–0.007). Upon discontinuation of sulforaphane, total scores on all scales rose toward pretreatment levels. Dietary sulforaphane, of recognized low toxicity, was selected for its capacity to reverse abnormalities that have been associated with ASD, including oxidative stress and lower antioxidant capacity, depressed glutathione synthesis, reduced mitochondrial function and oxidative phosphorylation, increased lipid peroxidation, and neuroinflammmation.
+
+Autism spectrum disorder (ASD) includes neurodevelopmental abnormalities characterized by impaired ability to communicate and interact socially and by restricted and repetitive patterns of behavior, interests, and activities ([1](#core-r1)). The prevalence of ASD in the United States is about 1 in 68 among children aged 8 y, with marked male (4.5:1) preponderance ([2](#core-r2)). No validated pharmacological treatments for the core symptoms of ASD are available. We report here that in a placebo-controlled, double-blind, randomized clinical trial, daily treatment with sulforaphane for 4–18 wk resulted in significant improvements in aberrant behavior and social impairment in a majority of young males diagnosed with moderate to severe autism, and that this improvement regressed upon cessation of treatment. Physician and parent/caregiver impressions of clinical improvement were evaluated by behavioral outcome measures.
+
+Sulforaphane is an isothiocyanate derived from broccoli. Its therapeutic potential is based on its potent activity in transcriptionally up-regulating genes that control mechanisms whereby aerobic cells protect themselves against oxidative stress, inflammation, DNA-damaging electrophiles, and radiation ([3](#core-r3), [4](#core-r4)). Under basal conditions, these protective systems do not operate at maximal capacity but can be induced to higher activity levels by sulforaphane, thus reducing the risks of developing malignancies and other chronic diseases ([5](#core-r5)–[10](#core-r10)). Sulforaphane is now in widespread clinical evaluation ([10](#core-r10)).
+
+The decision to test sulforaphane to treat ASD was based on four premises. First, extensive evidence shows that sulforaphane counteracts many of the same biochemical and molecular abnormalities associated with ASD, including oxidative stress and reduced antioxidant capacity, defects in glutathione synthesis, mitochondrial dysfunction and low oxidative phosphorylation, increased lipid peroxidation, and neuroinflammation ([11](#core-r11)–[16](#core-r16)). Although it is unclear whether these anomalies are etiological or secondary manifestations, their correction often improves ASD behavior ([17](#core-r17)).
+
+Second, a variety of small molecules including sulforaphane can ameliorate a number of unrelated genetic disorders by activating the “stress proteome,” which regulates many of the aforementioned damaging processes. Sulforaphane, as well as hydroxyurea, phenylbutyrate, and trichostatin A, have been shown in vitro to have therapeutic potential to reestablish cellular homeostasis in a number of unrelated genetic disorders ([18](#core-r18)).
+
+Third, sulforaphane is a dietary phytochemical, derived from its precursor glucosinolate glucoraphanin, that is widely consumed in cruciferous plant-rich diets, and qualifies for consideration as a food, a dietary supplement, or a drug, depending on its intended use. Sulforaphane is therefore justifiably considered to be of low toxicity, and its administration to humans is well tolerated ([10](#core-r10), [19](#core-r19), [20](#core-r20)).
+
+Fourth, widespread anecdotal reports have suggested that fever can dramatically but temporarily ameliorate the disturbed behavior of many autistic patients ([21](#core-r21)). Notably, the degree of improvement (mostly in stereotypic behavior and inappropriate speech) was unrelated to the severity of fever or of autism ([21](#core-r21)). This study explicitly suggested that elucidation of the fever response might provide insight into the mechanisms of ASD and point to new therapeutic approaches ([21](#core-r21), [22](#core-r22)). Fever up-regulates heat-shock proteins and related mechanisms central to multiple cellular processes in the CNS, including synaptic transmission ([23](#core-r23), [24](#core-r24)), and may improve long-range cerebral cortical connectivity that is depressed in ASD ([25](#core-r25)). Sulforaphane also up-regulates expression of the heat-shock response ([26](#core-r26)).
+
+We hypothesized that daily treatment with sulforaphane at levels achieved by diet might reduce the severity of socially impaired behavior in ASD. Behavior was quantified directly by three widely validated behavioral outcome measures at the periods before, during, and after intervention ([Fig. 1](#fig01)). Parents/caregivers completed the Aberrant Behavior Checklist (ABC) ([27](#core-r27)) and the Social Responsiveness Scale (SRS) ([28](#core-r28)). Study physicians completed the Clinical Global Impression Severity (CGI-S) and the Clinical Global Impression Improvement (CGI-I) scales ([29](#core-r29), [30](#core-r30)).
+
+#autism #research 
