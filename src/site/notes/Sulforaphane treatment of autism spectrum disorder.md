@@ -1,26 +1,14 @@
 ---
-{"dg-publish":true,"author":"Andrew W. Zimmerman","source":"https://www.pnas.org/doi/full/10.1073/pnas.1416940111","clipped":"2022-11-19","tags":"autism, research","permalink":"/sulforaphane-treatment-of-autism-spectrum-disorder/","dgPassFrontmatter":true}
+{"author":"Andrew W. Zimmerman","source":"https://www.pnas.org/doi/full/10.1073/pnas.1416940111","clipped":"2022-11-19","tags":"articles, clippings, autism, research","dg-publish":true,"permalink":"/sulforaphane-treatment-of-autism-spectrum-disorder/","dgPassFrontmatter":true}
 ---
 
 # Sulforaphane treatment of autism spectrum disorder
+
 Contributed by Paul Talalay, September 4, 2014 (sent for review August 12, 2014; reviewed by Bryan H. King, Robert K. Naviaux, and Cecilia Giulivi)
 
 October 13, 2014
 
-[https://doi.org/10.1073/pnas.1416940111](https://doi.org/10.1073/pnas.1416940111)
--   Contents
-    
-    [Vol. 111 | No. 43](/toc/pnas/111/43)
-    
-    -   [Significance](#executive-summary-abstract)
-    -   [Abstract](#abstract)
-    -   [Results](#sec-1)
-    -   [Discussion](#sec-2)
-    -   [Materials and Methods](#sec-3)
-    -   [Acknowledgments](#acknowledgments)
-    -   [Supporting Information](#supplementary-materials)
-    -   [References](#bibliography)
-    
+https://doi.org/10.1073/pnas.1416940111
 
 ## Significance
 
@@ -44,4 +32,6 @@ Fourth, widespread anecdotal reports have suggested that fever can dramatically 
 
 We hypothesized that daily treatment with sulforaphane at levels achieved by diet might reduce the severity of socially impaired behavior in ASD. Behavior was quantified directly by three widely validated behavioral outcome measures at the periods before, during, and after intervention ([Fig. 1](#fig01)). Parents/caregivers completed the Aberrant Behavior Checklist (ABC) ([27](#core-r27)) and the Social Responsiveness Scale (SRS) ([28](#core-r28)). Study physicians completed the Clinical Global Impression Severity (CGI-S) and the Clinical Global Impression Improvement (CGI-I) scales ([29](#core-r29), [30](#core-r30)).
 
-#autism #research 
+Fig. 1.
+
+[![](https://www.pnas.org/cms/10.1073/pnas.1416940111/asset/67a8aa1e-f7a8-491c-b293-340968d7514c/assets/graphic/pnas.1416940111fig01.jpeg)](#fig01)
